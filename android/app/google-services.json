@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "857106532565",
+    "firebase_url": "https://comsatsconnect-default-rtdb.firebaseio.com",
+    "project_id": "comsatsconnect",
+    "storage_bucket": "comsatsconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857106532565:android:72010ad26777597c047a5c",
+        "android_client_info": {
+          "package_name": "com.example.comsatsconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857106532565-0hisr68412uait2s654hpipak2jerboc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comsatsconnect",
+            "certificate_hash": "e908c9ad69cffdcfbf41821294bbe1148e129be5"
+          }
+        },
+        {
+          "client_id": "857106532565-mjnla0md4e5rfcltha062i4lfonda283.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD23UfT0mJ7Zf_JrHFkK_BT9qrSwyiYV6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857106532565-ht6v5lpf1ukh4bjf663babadud4tvt3g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857106532565-f0e9mj1but2ifbnh2gof5n3lbbhcp2jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.comsatsconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
